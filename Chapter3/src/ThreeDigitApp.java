@@ -28,7 +28,7 @@ Scanner Scan = new Scanner (System.in);
 		
 		
 		
-		Scan.close();
+		Scan.close();  You don't need this statement for new versions of Java
 
 	}
 
