@@ -4,6 +4,22 @@
  *CompSci 20
  *Feb 16 2022
  */
+
+Please use the header below
+/*
+
+Program: ????.java          Last Date of this Revision: September 30, 2019
+
+Purpose: An application that uses nested for loops to output a table that diplays number in 
+ multiples of ten.
+
+Author: Your Name, 
+School: CHHS
+Course: Computer Programming ??
+ 
+
+*/
+
 public class BinaryNumbers {
 
 	public static void main(String[] args) {
@@ -104,7 +120,7 @@ public class BinaryNumbers {
 }
 
 
-/*  ScreenDump
+/*  Screen Dump
  * 		
 The following lines convert decimal to binary: 
 The Binary code for the decimal 1 is: 1
